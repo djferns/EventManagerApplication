@@ -60,7 +60,7 @@ public class EventManagerClient {
 	
 	private static int showMenu(){
 		
-		System.out.println("\nEVENT REGISTRATION MANAGER");
+		System.out.println("\nEVENT REGISTRATION SYSTEM");
 		System.out.println("1. Register employee for Events");
 		System.out.println("2. Display All Employees");
 		System.out.println("3. Add an Event");
