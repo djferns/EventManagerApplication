@@ -1,4 +1,4 @@
-# EventManagerApplication
+# Event Manager Application
 
 This Hibernate Project allows a person authorized to register employees from the organization to register for various events conducted.
 
